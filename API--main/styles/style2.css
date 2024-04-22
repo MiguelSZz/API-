@@ -4,7 +4,9 @@ body{
 	font-weight: 300;
 	line-height: 1.7;
 	color: #15a2d1;
-	background-color: #1f2029;
+	background-image: url('../images/Bank\ logo.png');
+    background-repeat: repeat;
+    background-size:1400px 700px ;
 overflow: hidden;
 }
 a:hover {
